@@ -24,6 +24,9 @@ SELECT 기능
 
 - https://melodious-stretch-673.notion.site/4ef145c17967497da9e45e9cae6e3250
 
+숫자와 문자열을 다루는 함수들
+
+-https://melodious-stretch-673.notion.site/a725bf3e32d748cba2f9b4c458b5d7e5
 
 
 
