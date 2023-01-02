@@ -32,6 +32,8 @@ SELECT 기능
 
 - https://melodious-stretch-673.notion.site/b3e09a6dd3c24a2c9887145ce789bed6
 
+조건에 따라 그룹으로 묶기
 
+-https://melodious-stretch-673.notion.site/00aca1cdc3af438792c44449b305731e
 
 
