@@ -26,7 +26,7 @@ SELECT 기능
 
 숫자와 문자열을 다루는 함수들
 
--https://melodious-stretch-673.notion.site/a725bf3e32d748cba2f9b4c458b5d7e5
+- https://melodious-stretch-673.notion.site/a725bf3e32d748cba2f9b4c458b5d7e5
 
 
 
