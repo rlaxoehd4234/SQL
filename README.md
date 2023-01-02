@@ -17,7 +17,8 @@ NoSQL
 
 
 SELECT 기능
-https://melodious-stretch-673.notion.site/DB-SQL-fda9a95b6e3f4ab580481109f9cc6885
+
+- https://melodious-stretch-673.notion.site/DB-SQL-fda9a95b6e3f4ab580481109f9cc6885
 
 
 
