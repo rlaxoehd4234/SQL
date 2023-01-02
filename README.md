@@ -28,6 +28,10 @@ SELECT 기능
 
 - https://melodious-stretch-673.notion.site/a725bf3e32d748cba2f9b4c458b5d7e5
 
+시간/날짜 관련 함수들
+
+- https://melodious-stretch-673.notion.site/b3e09a6dd3c24a2c9887145ce789bed6
+
 
 
 
