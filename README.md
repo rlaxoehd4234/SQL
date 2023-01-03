@@ -36,4 +36,8 @@ SELECT 기능
 
 - https://melodious-stretch-673.notion.site/00aca1cdc3af438792c44449b305731e
 
+쿼리 안에 서브쿼리
+
+- https://melodious-stretch-673.notion.site/5124dbc30f194efcba48d02907be35af
+
 
